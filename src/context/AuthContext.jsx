@@ -56,7 +56,7 @@ export function AuthProvider(props){
                 //if no user, empty user state and return from this listener
                 //if user then check if data in db, then fetch and update state
                 //(labelled json)
-                console.log(" current user", user);
+                //console.log(" current user", user);
                 setGlobalUser(user);
                 if(!user){
                     console.log("no active user");
@@ -69,7 +69,7 @@ export function AuthProvider(props){
                    let firebaseData={};//init empty, bcuz if nothing it reamins empty!
                    if(docSnap.exists()){
                        firebaseData= docSnap.data();
-                       console.log('Found data', firebaseData);
+                       //console.log('Found data', firebaseData);
                    }
                    setGlobalData(firebaseData);
                 } catch (err) {
