@@ -9,6 +9,7 @@ Coffee tracking app with React and Firebase.
 - **Cost Analysis**: Keep track of how much you spend on coffee.
 - **Custom Hook**: Wrote custom hook useAuth() for global data and state management.
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
+<br/>
 ##Getting Started
 **Installation**
 ```
