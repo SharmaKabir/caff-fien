@@ -9,3 +9,9 @@ Coffee tracking app with React and Firebase.
 - **Cost Analysis**: Keep track of how much you spend on coffee.
 - **Custom Hook**: Wrote custom hook useAuth() for global data and state management.
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
+##Getting Started
+**Installation**
+```
+git clone https://github.com/your-username/caff-fien.git
+cd caff-fien
+```
