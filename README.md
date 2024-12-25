@@ -10,8 +10,13 @@ Coffee tracking app with React and Firebase.
 - **Custom Hook**: Wrote custom hook useAuth() for global data and state management.
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
 <br/>
+<img width="1258" alt="caffien-ss1" src="https://github.com/user-attachments/assets/f376bbba-a268-4b0c-a5fa-1d2699502287" />
+<br/>
+<img width="1258" alt="caffein-ss2" src="https://github.com/user-attachments/assets/4f2cd225-b239-4b81-ba01-3d5e35fc6e89" />
+<br/>
 
 ## Getting Started 🚀
+
 
 1. Clone the repository:
 ```bash
